@@ -1,0 +1,8 @@
+# Ignore IPython Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore nbgrader logging file
+.nbgrader.log
+
+# Ignore Python cached files
+__pycache__
